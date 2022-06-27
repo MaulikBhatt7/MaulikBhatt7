@@ -1,7 +1,7 @@
 - Hi, I’m Maulik Bhatt.
 - I’m interested in app developing and cyber security.
-- I’m currently learning Object Oriented Programming with Java And Database Management System.
-- I can solve problem of C programming language.
+- I’m currently learning JavaScript, AngularJS, NodeJS, ReactJS, Data Structure And Database Management System.
+- I can solve problem of C programming and Java language.
 - I can Make webpages using Bootstrap.
 
 <!---
