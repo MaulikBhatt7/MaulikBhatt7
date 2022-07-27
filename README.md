@@ -3,6 +3,7 @@
 - I’m currently learning JavaScript, AngularJS, NodeJS, ReactJS, Data Structure And Database Management System.
 - I can solve problem of C programming and Java language.
 - I can Make webpages using Bootstrap.
+- I can make games using JavaScript also.
 
 <!---
 MaulikBhatt7/MaulikBhatt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
