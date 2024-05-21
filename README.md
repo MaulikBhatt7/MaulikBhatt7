@@ -1,9 +1,10 @@
-- Hi, I’m Maulik Bhatt.
-- I’m interested in app developing and cyber security.
-- I’m currently learning JavaScript, AngularJS, NodeJS, ReactJS, Data Structure And Database Management System.
-- I can solve problem of C programming and Java language.
-- I can Make webpages using Bootstrap.
-- I can make games using JavaScript also.
+As a passionate fresher in Software Engineering, I'm
+driven by a deep curiosity for solving complex
+problems and creating efficient solutions. With a
+strong foundation in coding principles and a
+proactive approach to learning, I'm eager to
+contribute my creativity and dedication to projects
+that push boundaries and drive positive impact.
 
 <!---
 MaulikBhatt7/MaulikBhatt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
